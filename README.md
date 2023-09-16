@@ -3,11 +3,8 @@
 
 <p align="center">I am Ilaha, a **Junior Frontend Developer**. The journey I took was one of the hardest and most exciting ones and I could never imagine just a few years ago that I'll be here. </p>
 <div align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=frst1009&theme=tokyonight&show_icons=true&hide=contribs,prs" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=frst1009&theme=tokyonight&layout=compact&langs_count=8&card_width=200" />
-</a></div>
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=frst1009&theme=tokyonight&show_icons=true&hide=contribs,prs" />
+</a><a href="https://github.com/anuraghazra/convoychat"><img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=frst1009&theme=tokyonight&layout=compact&langs_count=8&card_width=200" /></a></div>
 
 <div align="center"><h3>Languages and Tools:</h3>
 
